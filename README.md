@@ -23,3 +23,5 @@ For auto-completion popup, you might need to install
 autocmd FileType js LanguageClientStart
 ```
 
+## Reference
+[LanguageServer-php-neovim](https://github.com/roxma/LanguageServer-php-neovim).
