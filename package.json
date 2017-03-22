@@ -1,0 +1,7 @@
+{
+  "name": "LangServer-javascript-neovim",
+  "version": "1.0.0",
+  "dependencies": {
+    "javascript-typescript-langserver": "^1.*"
+  }
+}
